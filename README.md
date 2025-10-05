@@ -79,3 +79,14 @@ UniversityManagementSystem/
 4. **Import `database.sql` into MySQL**
 
 5. **Run `Splash.java` to start the application**
+
+## ✅ What I Learned
+
+- **Java GUI (Swing & AWT)**: Designing forms, buttons, tables, and interactive interfaces.  
+- **MySQL Integration**: Creating tables, storing, retrieving, and updating data.  
+- **JDBC**: Connecting Java programs to a MySQL database.  
+- **CRUD Operations**: Adding, viewing, updating, and deleting student and teacher records.  
+- **Project Organization**: Structuring a multi-file Java project efficiently.  
+- **Problem-Solving**: Handling exceptions, validations, and user inputs.
+
+---
