@@ -1,7 +1,18 @@
 # 🎓 University Management System – Java & MySQL
 
-A **Java-based University Management System** designed to efficiently manage student, faculty, and administrative information.  
-All records are stored in a **centralized MySQL database**, allowing users to **Add, View, Update, and Manage** university data seamlessly.
+A **Java-based University Management System** designed to efficiently manage **student, faculty, and administrative information**.  
+All records are stored in a **centralized MySQL database**, allowing users to **Add, View, Update, and Manage university data seamlessly**.  
+
+This system provides a **comprehensive platform** for handling day-to-day university operations, including:  
+
+- **Student Management**: Maintain student profiles, track attendance, record marks, and manage fee payments.  
+- **Faculty Management**: Store faculty details, track leaves, and monitor teaching assignments.  
+- **Examination Management**: Schedule exams, record marks, and generate results efficiently.  
+- **Leave Management**: Apply, approve, and track leaves for both students and teachers.  
+- **Fee Management**: Collect fees, view fee structures, and maintain financial records securely.  
+- **User Authentication**: Secure login system to ensure authorized access.  
+
+This project helped me **practically learn Java GUI development, database connectivity, and implementing CRUD operations**, giving hands-on experience in building **real-world applications**.
 
 ---
 
