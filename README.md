@@ -62,4 +62,20 @@ UniversityManagementSystem/
 │   ├── Conn.java
 │── README.md
 ```
+## 🚀 How to Run the Project
 
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/UniversityManagementSystem.git
+   ```
+2. **Open the project in any Java IDE**
+   - IntelliJ IDEA / Eclipse / NetBeans
+3. **Configure Database Connection in `Conn.java`**
+   ```java
+   String url = "jdbc:mysql://localhost:3306/university";
+   String username = "root";
+   String password = "your_password";
+   ```
+4. **Import `database.sql` into MySQL**
+
+5. **Run `Splash.java` to start the application**
