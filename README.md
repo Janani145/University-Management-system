@@ -35,25 +35,31 @@ All records are stored in a **centralized MySQL database**, allowing users to **
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
+```
 UniversityManagementSystem/
 │── src/
-│ ├── Login.java
-│ ├── Splash.java
-│ ├── AddStudent.java
-│ ├── AddTeacher.java
-│ ├── UpdateStudent.java
-│ ├── UpdateTeacher.java
-│ ├── StudentDetails.java
-│ ├── TeacherDetails.java
-│ ├── EnterMarks.java
-│ ├── Marks.java
-│ ├── ExaminationDetails.java
-│ ├── StudentLeave.java
-│ ├── TeacherLeave.java
-│ ├── StudentLeaveDetails.java
-│ ├── TeacherLeaveDetails.java
-│ ├── StudentFeeForm.java
-│ ├── FeeStructure.java
-│ ├── About.java
-│ ├── Project.java
-│ ├── Conn.java
+│   ├── Login.java
+│   ├── Splash.java
+│   ├── AddStudent.java
+│   ├── AddTeacher.java
+│   ├── UpdateStudent.java
+│   ├── UpdateTeacher.java
+│   ├── StudentDetails.java
+│   ├── TeacherDetails.java
+│   ├── EnterMarks.java
+│   ├── Marks.java
+│   ├── ExaminationDetails.java
+│   ├── StudentLeave.java
+│   ├── TeacherLeave.java
+│   ├── StudentLeaveDetails.java
+│   ├── TeacherLeaveDetails.java
+│   ├── StudentFeeForm.java
+│   ├── FeeStructure.java
+│   ├── About.java
+│   ├── Project.java
+│   ├── Conn.java
+│── README.md
+```
+
